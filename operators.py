@@ -1,0 +1,6 @@
+num1= int(input("enter num1:"))
+num2= int(input("enter num2:"))
+print("The sum of num1 and num2 is",num1+num2)
+print("The difference of num1 and num2 is",num1-num2)
+print("The product of num1 and num2 is",num1*num2)
+print("The quotient of num1 and num2 is",num1//num2)
